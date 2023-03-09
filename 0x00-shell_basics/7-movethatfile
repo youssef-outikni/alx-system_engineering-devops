@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 mv /tmp/betty /tmp/my_first_directory/
+=======
+mv ~/tmp/betty ~/tmp/my_first_directory
+>>>>>>> 0094d9002a3d8d8397b54505f9fd3b2a39121038
