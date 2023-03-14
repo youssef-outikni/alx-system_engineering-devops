@@ -1,1 +1,1 @@
-cat /etc/passwd | grep -v bin
+cat /etc/passwd | grep -v -w bin
